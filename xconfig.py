@@ -27,7 +27,7 @@ class Config(object):
 
     # RECOMMENDED
     MONGO_DB_URI = "mongodb+srv://blazeshubham:shubham@cluster0.vftwypv.mongodb.net/?retryWrites=true&w=majority" 
-    SQLALCHEMY_DATABASE_URI = "postgres://root:5xXR5wP3U1TwYGT3fupB@containers-us-west-184.railway.app:5943/railway"  # needed for any database module
+    SQLALCHEMY_DATABASE_URI = "postgres://sfnxvgwh:zK4b5B94AZwU2shCTxhAdPQd9od5-0oT@baasu.db.elephantsql.com/sfnxvgwh"  # needed for any database module
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
