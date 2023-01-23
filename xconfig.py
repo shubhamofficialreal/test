@@ -20,8 +20,8 @@ class Config(object):
     OWNER_USERNAME = "@blazeshubham"
     START_IMG = "https://graph.org/file/644fddccf30ac191fc895.jpg"
     ALIVE_IMG = "https://graph.org/file/36c17c0f22aeea9c99895.jpg"
-    UPDATE_CHANNEL = "@blazerocks" # Your own channel for updates, do not add the @
-    SUPPORT_CHAT = "@blazekidschat"  # Your own group for support, do not add the @
+    UPDATE_CHANNEL = "blazerocks" # Your own channel for updates, do not add the @
+    SUPPORT_CHAT = "blazekidschat"  # Your own group for support, do not add the @
     JOIN_LOGGER = (-1001852420702)  # A new channel ID To log who started the bot. Starting with "-100", Put inside braces
     EVENT_LOGS = (-1001852420702)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
